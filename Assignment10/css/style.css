@@ -1,0 +1,23 @@
+  div {
+  background-color: white;
+      }
+  body {
+    background-color: cornflowerblue;
+       }
+
+  h1   {
+    color: black;
+        }
+  h2   {
+    color: black;
+        }
+  p    {
+    color: black;
+  }
+  ul {
+  text-align: center;
+  padding: 10px;
+      }
+  li {
+    display: inline;
+    padding: 5px;
