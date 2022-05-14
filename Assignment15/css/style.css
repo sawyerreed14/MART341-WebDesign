@@ -1,0 +1,51 @@
+div {
+  background-color: white;
+}
+
+body {
+  background-color: cornflowerblue;
+}
+
+h1 {
+  color: black;
+  padding: 9px;
+  background-color: white;
+  font-family: "Audiowide", sans-serif;
+}
+
+h2 {
+  color: black;
+  font-family: "Audiowide", sans-serif;
+}
+
+p {
+  color: black;
+  font-family: "Audiowide", sans-serif;
+}
+
+ul {
+  text-align: center;
+  padding: 10px;
+  background-color: white;
+}
+
+li {
+  display: inline;
+  padding: 5px;
+}
+
+* {
+  font-family: "Audiowide", sans-serif;
+  background-color: cornflowerblue;
+}
+
+.bolditup {
+  font-weight: bolder;
+  width: 100%;
+  margin: auto;
+  padding: 20px;
+}
+
+.video-background {
+  background-color: cornflowerblue;
+}
